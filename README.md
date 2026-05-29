@@ -4,6 +4,8 @@ SQL Server schema for inventory tracking system.
 
 Tables
 - Users, Suppliers, Products, StockAlerts
+
+
  How to Run
 1. Run schema.sql first
 2. Then procedures.sql
